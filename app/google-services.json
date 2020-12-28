@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055729310043",
+    "project_id": "shopgo-97693",
+    "storage_bucket": "shopgo-97693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055729310043:android:b1ebdcfe580e98a922a27e",
+        "android_client_info": {
+          "package_name": "com.nuu.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055729310043-0m7h8ivoqk9gc41hhs7thb6i5571om2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfxCzBbNN-2hAqjf7rospEL4unxUQxqss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055729310043-0m7h8ivoqk9gc41hhs7thb6i5571om2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
